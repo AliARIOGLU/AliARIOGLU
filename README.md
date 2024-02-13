@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ali-ar%C4%B1o%C4%9Flu-59277925b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali arıoğlu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-ar%C4%B1o%C4%9Flu-59277925b/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali arıoğlu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
